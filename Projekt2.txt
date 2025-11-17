@@ -1,0 +1,16 @@
+Adatszerkezet
+ -Táblák:
+  -Személy
+  -Mérés
+Algoritmus:
+ -mérés
+ -statisztika
+ -osztály, iskola
+
+Kell: (Határidő:2026.01.12 (egész) )
+-specifikáció (pdf)
+-adatszerkezet
+-kód
+-tesztek
+-előadás 10+3 perc
+-Feladat kiosztás
